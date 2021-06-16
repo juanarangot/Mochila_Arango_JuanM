@@ -1,0 +1,13 @@
+h1, h2 {
+    color: #005677;
+    text-align: center;
+    background-color: #C4C4C4;
+}
+
+article.main-article {
+    padding: 5em;
+}
+
+ul.lista {
+    list-style: none;
+}
