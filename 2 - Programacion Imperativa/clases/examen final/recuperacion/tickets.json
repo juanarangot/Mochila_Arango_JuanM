@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "usuario": "Regina Cejas",
+    "email": "reginamedina@ginkle.com",
+    "estaResuelto": true,
+    "minutosDeEspera": 175,
+    "prioridad": "media"
+  },
+  {
+    "id": 2,
+    "usuario": "Gina Velez",
+    "email": "ginavelez@ginkle.com",
+    "estaResuelto": true,
+    "minutosDeEspera": 190,
+    "prioridad": "baja"
+  },
+  {
+    "id": 3,
+    "usuario": "Martin Acosta",
+    "email": "haleyacosta@ginkle.com",
+    "estaResuelto": true,
+    "minutosDeEspera": 100,
+    "prioridad": "alta"
+  },
+  {
+    "id": 4,
+    "usuario": "James Valenzuela",
+    "email": "jamesvalenzuela@ginkle.com",
+    "estaResuelto": false,
+    "minutosDeEspera": 165,
+    "prioridad": "baja"
+  },
+  {
+    "id": 5,
+    "usuario": "Wilda Steele",
+    "email": "wildasteele@ginkle.com",
+    "estaResuelto": true,
+    "minutosDeEspera": 22,
+    "prioridad": "baja"
+  },
+  {
+    "id": 6,
+    "usuario": "Carmela Newman",
+    "email": "carmelanewman@ginkle.com",
+    "estaResuelto": false,
+    "minutosDeEspera": 65,
+    "prioridad": "media"
+  },
+  {
+    "id": 7,
+    "usuario": "Jo Dudley",
+    "email": "jodudley@ginkle.com",
+    "estaResuelto": false,
+    "minutosDeEspera": 262,
+    "prioridad": "alta"
+  },
+  {
+    "id": 8,
+    "usuario": "Bond Booker",
+    "email": "bondbooker@ginkle.com",
+    "estaResuelto": true,
+    "minutosDeEspera": 135,
+    "prioridad": "alta"
+  },
+  {
+    "id": 9,
+    "usuario": "Carey Berger",
+    "email": "careyberger@ginkle.com",
+    "estaResuelto": false,
+    "minutosDeEspera": 272,
+    "prioridad": "baja"
+  },
+  {
+    "id": 10,
+    "usuario": "Lizzie Erickson",
+    "email": "lizzieerickson@ginkle.com",
+    "estaResuelto": false,
+    "minutosDeEspera": 250,
+    "prioridad": "Baja"
+  },
+  {
+    "id": 11,
+    "usuario": "Autumn Kelley",
+    "email": "autumnkelley@ginkle.com",
+    "estaResuelto": true,
+    "minutosDeEspera": 247,
+    "prioridad": "alta"
+  },
+  {
+    "id": 12,
+    "usuario": "Francis Franklin",
+    "email": "francisfranklin@ginkle.com",
+    "estaResuelto": false,
+    "minutosDeEspera": 275,
+    "prioridad": "media"
+  },
+  {
+    "id": 13,
+    "usuario": "Marilyn Talley",
+    "email": "marilyntalley@ginkle.com",
+    "estaResuelto": true,
+    "minutosDeEspera": 67,
+    "prioridad": "media"
+  },
+  {
+    "id": 14,
+    "usuario": "Knowles Kirk",
+    "email": "knowleskirk@ginkle.com",
+    "estaResuelto": false,
+    "minutosDeEspera": 42,
+    "prioridad": "media"
+  },
+  {
+    "id": 15,
+    "usuario": "Amanda Dunlap",
+    "email": "amandadunlap@ginkle.com",
+    "estaResuelto": true,
+    "minutosDeEspera": 229,
+    "prioridad": "baja"
+  },
+  {
+    "id": 16,
+    "usuario": "Hester Whitfield",
+    "email": "hesterwhitfield@ginkle.com",
+    "estaResuelto": false,
+    "minutosDeEspera": 268,
+    "prioridad": "baja"
+  },
+  {
+    "id": 17,
+    "usuario": "Cristina Hodges",
+    "email": "cristinahodges@ginkle.com",
+    "estaResuelto": false,
+    "minutosDeEspera": 130,
+    "prioridad": "baja"
+  },
+  {
+    "id": 18,
+    "usuario": "Rebecca Cunningham",
+    "email": "rebeccacunningham@ginkle.com",
+    "estaResuelto": false,
+    "minutosDeEspera": 259,
+    "prioridad": "baja"
+  },
+  {
+    "id": 19,
+    "usuario": "Rosa Ayala",
+    "email": "rosaayala@ginkle.com",
+    "estaResuelto": false,
+    "minutosDeEspera": 248,
+    "prioridad": "alta"
+  },
+  {
+    "id": 20,
+    "usuario": "Kelley Gentry",
+    "email": "kelleygentry@ginkle.com",
+    "estaResuelto": true,
+    "minutosDeEspera": 191,
+    "prioridad": "alta"
+  }
+]
