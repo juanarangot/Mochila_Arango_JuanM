@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+.card{
+    margin: 50px auto;
+    max-width: 300px;
+    background-color: rgb(231, 231, 118);
+    padding: 50px 25px;
+    text-align: center;
+    border-radius: 10px;
+}
+.card img{
+    width: 50%;
+}
+hr{
+    margin: 25px 0;
+}
+.skeleton{
+    background-color: grey;
+    animation: titilar 2s infinite;
+}
+.skeleton h3{
+    background-color: rgb(92, 92, 92);
+    color: rgb(92, 92, 92);
+}
+@keyframes titilar {
+    0%{
+        opacity: 0.3;
+    }
+    50%{
+        opacity: 0.9;
+    }
+    100%{
+        opacity: 0.3;
+    }
+}
